@@ -12,7 +12,7 @@ Setup
 -----
 to run the example file, wire your arduino up as following
 
-<img src="https://github.com/chrkaatz/sensable-arduino/raw/master/UnoEthernetDHT11_Steckplatine.png">
+<img src="https://raw.githubusercontent.com/Sensable/sensable-arduino/master/UnoEthernetDHT11_Steckplatine.png">
 
 Code alignments
 ---------------
